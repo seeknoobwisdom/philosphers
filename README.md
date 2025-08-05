@@ -7,21 +7,6 @@ This project is part of the **42 curriculum** and focuses on concurrency, thread
 ![Threads](https://img.shields.io/badge/pthreads-POSIX-yellow)
 ![Status](https://img.shields.io/badge/Project-Done-success)
 
----
-
-## 📖 Table of Contents // to be addit later
-
-- [About](#about)
-- [Rules](#rules)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Program Flow](#program-flow)
-- [Thread Safety](#thread-safety)
-- [Project Structure](#project-structure)
-- [License](#license)
-
----
-
 ## 🧩 About
 
 The **Dining Philosophers Problem** illustrates synchronization issues and the need to prevent *deadlock* and *race conditions*. Each philosopher alternates between:
@@ -49,7 +34,7 @@ Philosophers need **two forks** to eat, shared between neighbors. Correct handli
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/philosophers.git
+git clone https://github.com/seeknoobwisdom/philosophers.git
 cd philosophers
 make
 
