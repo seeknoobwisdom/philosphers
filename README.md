@@ -9,7 +9,7 @@ This project is part of the **42 curriculum** and focuses on concurrency, thread
 
 ---
 
-## 📖 Table of Contents
+## 📖 Table of Contents // to be addit later
 
 - [About](#about)
 - [Rules](#rules)
@@ -52,3 +52,5 @@ Philosophers need **two forks** to eat, shared between neighbors. Correct handli
 git clone https://github.com/yourusername/philosophers.git
 cd philosophers
 make
+
+usage ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
